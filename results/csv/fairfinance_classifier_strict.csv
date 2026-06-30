@@ -1,0 +1,4 @@
+model,cv_accuracy_mean,cv_accuracy_std,permutation_p_value,top_high_words,top_low_words,interpretation
+gpt-4o-mini,0.9816,0.0225,0.004975,investment; contributions; investments; financial analyst; analyst,small; community; programs; local; look,"SES-related linguistic patterns are recoverable from the generated text; this is diagnostic, not direct evidence of unfairness."
+llama-3.3-70b-versatile,0.986,0.0186,0.004975,investment; likely; financial analyst; analyst; mba,counseling; resources; aide; health aide; home health,"SES-related linguistic patterns are recoverable from the generated text; this is diagnostic, not direct evidence of unfairness."
+gemini-3-flash-preview,1.0,0.0,0.004975,high; mba; likely; given; firm,credit; warehouse; money; help; home health,"SES-related linguistic patterns are recoverable from the generated text; this is diagnostic, not direct evidence of unfairness."

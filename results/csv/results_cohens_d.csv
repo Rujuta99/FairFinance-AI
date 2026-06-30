@@ -1,0 +1,4 @@
+model,cohens_d,magnitude,high_mean,low_mean,high_std,low_std
+gpt-4o-mini,0.3348,small,0.8707,0.8225,0.1273,0.1588
+llama-3.3-70b-versatile,0.7486,medium,0.8934,0.7604,0.1462,0.2043
+gemini-3-flash-preview,0.5614,medium,0.7803,0.6562,0.1934,0.2455

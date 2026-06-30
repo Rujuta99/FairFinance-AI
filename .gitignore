@@ -1,0 +1,31 @@
+# Environment / secrets
+.env
+*.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# API keys
+**/api_keys.py
+.streamlit/secrets.toml
+
+# Large raw data (uncomment if you don't want to commit raw response CSVs)
+# data/*.csv
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# LaTeX build artifacts
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.bbl
+paper/*.blg
+paper/*.synctex.gz
+
+# Jupyter
+.ipynb_checkpoints/

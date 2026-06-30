@@ -1,0 +1,13 @@
+ses_group,neighborhood,hardship_score,mean_accuracy,n
+high,Near North Side,1.0,0.8823,54
+high,Lincoln Park,2.0,0.8441,54
+high,Loop,3.0,0.8688,54
+high,Lake View,5.0,0.8484,54
+high,North Center,6.0,0.8087,54
+high,Near South Side,7.0,0.8365,54
+low,West Garfield Park,92.0,0.7038,54
+low,Gage Park,93.0,0.7165,54
+low,Englewood,94.0,0.7509,54
+low,South Lawndale,96.0,0.7533,54
+low,Fuller Park,97.0,0.7549,54
+low,Riverdale,98.0,0.7989,54

@@ -1,0 +1,10 @@
+model,prompt_type,accuracy_gap,quality_gap,penalty_gap,high_accuracy,low_accuracy,high_quality,low_quality
+gpt-4o-mini,zero_shot,0.0577,0.5766,0.0,0.8617,0.8041,8.6173,8.0408
+gpt-4o-mini,few_shot,0.0446,0.4461,0.0,0.8021,0.7575,8.0214,7.5753
+gpt-4o-mini,fairness_instructed,0.0779,0.7786,0.0,0.9232,0.8453,9.2318,8.4532
+llama-3.3-70b-versatile,zero_shot,0.0804,0.8039,0.0,0.8409,0.7605,8.409,7.6051
+llama-3.3-70b-versatile,few_shot,0.158,1.5797,0.0,0.7405,0.5825,7.4052,5.8255
+llama-3.3-70b-versatile,fairness_instructed,0.052,0.5197,0.0,0.8243,0.7723,8.2428,7.7231
+gemini-3-flash-preview,zero_shot,-0.0591,-0.5906,0.0278,0.6439,0.703,6.4393,7.0299
+gemini-3-flash-preview,few_shot,0.0821,0.821,0.0,0.4757,0.3936,4.7574,3.9364
+gemini-3-flash-preview,fairness_instructed,-0.0385,-0.3852,0.0042,0.7399,0.7784,7.399,7.7842

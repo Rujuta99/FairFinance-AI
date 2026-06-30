@@ -1,0 +1,10 @@
+model,prompt_type,threshold,dpd,dir,note
+gpt-4o-mini,zero_shot,0.8571,0.2222,0.7037,appendix_only_binary_binarization_of_continuous_scores
+gpt-4o-mini,few_shot,0.8571,0.1944,0.65,appendix_only_binary_binarization_of_continuous_scores
+gpt-4o-mini,fairness_instructed,0.8571,0.2222,0.7037,appendix_only_binary_binarization_of_continuous_scores
+llama-3.3-70b-versatile,zero_shot,0.8571,0.25,0.7,appendix_only_binary_binarization_of_continuous_scores
+llama-3.3-70b-versatile,few_shot,0.8571,0.5278,0.2083,appendix_only_binary_binarization_of_continuous_scores
+llama-3.3-70b-versatile,fairness_instructed,0.8571,0.25,0.64,appendix_only_binary_binarization_of_continuous_scores
+gemini-3-flash-preview,zero_shot,0.7143,0.25,0.6786,appendix_only_binary_binarization_of_continuous_scores
+gemini-3-flash-preview,few_shot,0.7143,0.1111,0.6923,appendix_only_binary_binarization_of_continuous_scores
+gemini-3-flash-preview,fairness_instructed,0.7143,0.1389,0.8438,appendix_only_binary_binarization_of_continuous_scores
