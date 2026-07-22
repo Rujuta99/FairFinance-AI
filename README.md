@@ -168,7 +168,8 @@ Full discussion in the paper.
 
 ## Authors
 
-**Rujuta Tambewagh** · **Jaimin Babaria**
+[**Rujuta Tambewagh**](https://github.com/Rujuta99) · [**Jaimin Babaria**](https://github.com/jaiminbabaria)
+
 Department of Computer Science, University of Illinois Chicago
 
 Built for the *Socially Responsible AI* course, with guidance from Professor Lu Cheng.
